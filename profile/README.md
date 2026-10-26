@@ -1,12 +1,11 @@
-## Hi there 👋
+# Skvorc Dev
 
-<!--
+Independent open-source software engineering and developer tools.
 
-**Here are some ideas to get you started:**
+## Open-source projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [FrankenSPO](https://github.com/skvorc-dev/FrankenSPO) — modular .NET persistence engine (early development).
+- [FrankenSPO.MiddleTier](https://github.com/skvorc-dev/FrankenSPO.MiddleTier) — planned remote ObjectSpace infrastructure.
+- [FrankenSPO.WebApi](https://github.com/skvorc-dev/FrankenSPO.WebApi) — planned model-driven ASP.NET Core Web API.
+
+All projects are early-stage. Please consult each repository's verified feature documentation.
